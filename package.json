@@ -1,17 +1,15 @@
 {
   "name": "autocomplete-weasel",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Extencible autocomplete+ provider for Weasel Game Engine",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/michyo/autocomplete-weasel",
   "license": "THE MOUSE LICENSE",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
