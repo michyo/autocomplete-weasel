@@ -5,7 +5,7 @@
   "description": "Extencible autocomplete+ provider for Weasel Game Engine",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/autocomplete-weasel",
+  "repository": "https://github.com/michyo/autocomplete-weasel",
   "license": "THE MOUSE LICENSE",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
