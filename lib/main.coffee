@@ -33,6 +33,17 @@ provider =
       {text: 'Draw()'},
       {snippet: 'addGoal(${1:x},${2:y},${3:chip},${4:next})'},
       {snippet: 'createPlayer(${1:filePath})'},
+      {snippet: 'createBoneKit(${1:bonePath})'},
+      {text: 'PlaySound()'},
+      {text: 'Game'},
+      {text: 'Enemy'},
+      {text: 'MapChip'},
+      {text: 'Map'},
+      {text: 'Title'},
+      {text: 'Complete'},
+      {text: 'Gameover'},
+      {text: 'setStartBL()'},
+      {text: 'StageBone()'},
     ]
     suggestions
 
